@@ -1,4 +1,4 @@
-package com.techocrack.search;
+package com.techocrack.binarysearch;
 
 import java.util.Scanner;
 
@@ -20,7 +20,7 @@ public class BinarySearchRecursive {
     public static int binarySearch(int[] arr, int start , int end,  int find){
         if( start > end )
             return -1;
-        
+
         int mid  =  start + (end - start)/2;
         if(arr[mid] == find)
             return mid;

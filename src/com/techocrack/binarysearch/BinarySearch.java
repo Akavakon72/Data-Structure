@@ -1,4 +1,4 @@
-package com.techocrack.search;
+package com.techocrack.binarysearch;
 
 public class BinarySearch {
     //time complexity is O(n)

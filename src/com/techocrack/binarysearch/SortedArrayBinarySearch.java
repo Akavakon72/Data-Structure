@@ -1,4 +1,4 @@
-package com.techocrack.search;
+package com.techocrack.binarysearch;
 
 import java.util.Scanner;
 
