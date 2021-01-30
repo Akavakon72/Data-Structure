@@ -3,7 +3,7 @@ package com.techocrack.binarysearch;
 import java.util.Scanner;
 
 public class SortedArrayBinarySearch {
-    //time complexity is O(logn base 2)123
+    //time complexity is O(logn base 2)
     //as we are dividing or by 2 so reducing to half
     public static void main(String[] args) {
         int[] arr = {1, 2, 4, 19, 23, 34, 43, 53, 63};
